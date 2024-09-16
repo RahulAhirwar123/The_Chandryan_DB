@@ -1,1 +1,3 @@
 # The_Chandryan_DB
+
+A Chandrayaan-3 Power BI dashboard would provide a comprehensive visual overview of the mission's key data and metrics. It would feature real-time updates on the mission status, such as current spacecraft position, landing status, and health of the lander and rover. The dashboard could include visuals like a timeline of key mission events, telemetry data like speed, altitude, and trajectory, and system health indicators for power, communication, and scientific instruments. Additionally, the dashboard could show performance comparisons with Chandrayaan-2 and key milestones like lunar orbit insertion and rover deployment.
